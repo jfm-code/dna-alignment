@@ -9,9 +9,9 @@ One of my test case is:
 - string 2: cag
 and the result will be:
 Edit distance = 3, because:
-- c 2
-a a 0
-t g 1
+|-|c|2|
+|a|a|0|
+|t|g|1|
 I run this test with my program and it is correct.
 
 ### Features
